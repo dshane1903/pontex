@@ -41,7 +41,7 @@ export default function Sites(): JSX.Element {
   return (
     <div className="min-h-screen bg-gray-50">
       <Head>
-        <title>Sites - Dashboard - Montex</title>
+        <title>Sites - Dashboard - Pontex</title>
       </Head>
       <Navbar variant="dashboard" />
       {user && (

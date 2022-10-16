@@ -59,7 +59,7 @@ export default function Sites({ data }: SitesProps): JSX.Element {
   return (
     <div className="min-h-screen bg-gray-100">
       <Head>
-        <title>Sites - Dashboard - Montex</title>
+        <title>Sites - Dashboard - Pontex</title>
       </Head>
       <Navbar variant="dashboard" />
 

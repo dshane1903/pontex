@@ -6,8 +6,8 @@
 
 ## Introduction
 
-[![GitHub issues](https://img.shields.io/github/issues/Kerosz/commentry?style=flat-square)](https://github.com/Kerosz/commentry/issues)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](http://chirila.dev)
+[![GitHub issues](https://img.shields.io/github/issues/dshane1903/commentry?style=flat-square)](https://github.com/dshane1903/commentry/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](http://dshane.dev)
 
 TBD
 

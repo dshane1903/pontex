@@ -29,13 +29,13 @@ export default function Signup(): JSX.Element {
         aria-hidden
       />
       <Head>
-        <title>Sign Up - Montex</title>
+        <title>Sign Up - Pontex</title>
       </Head>
 
       <Container className="py-10">
         <Link
           href="/"
-          title="Montex branding"
+          title="Pontex branding"
           fixPosition
           className="justify-center lg:justify-start"
         >

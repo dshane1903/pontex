@@ -29,7 +29,7 @@ export default function Pricing(): JSX.Element {
   return (
     <>
       <Head>
-        <title>Pricing - Montex</title>
+        <title>Pricing - Pontex</title>
       </Head>
 
       <Navbar withBorder />
@@ -51,7 +51,7 @@ export default function Pricing(): JSX.Element {
               </h3>
 
               <p className="text-center text-lg mt-6 text-black-normal">
-                Get Montex for free, with 1 custom domain and up to 30 internal routes.{" "}
+                Get Pontex for free, with 1 custom domain and up to 30 internal routes.{" "}
                 <span className="font-semibold">No credit card required</span>.
               </p>
 
@@ -61,7 +61,7 @@ export default function Pricing(): JSX.Element {
                 variant="secondary"
                 className="py-3.5 px-6 flex justify-center items-center bg-gray-50 mt-8 text-gray-800 uppercase hover:border-gray-300 hover:shadow hover:bg-gray-100 hover:text-gray-700"
               >
-                Start growing with Montex
+                Start growing with Pontex
                 <ArrowNarrowRightIcon className="w-5 text-black-light ml-1.5 mt-1" />
               </Button>
             </div>

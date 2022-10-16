@@ -21,13 +21,13 @@ export default function Login(): JSX.Element {
   return (
     <>
       <Head>
-        <title>Login - Montex</title>
+        <title>Login - Pontex</title>
       </Head>
 
       <Navbar withBorder />
 
       <Container className="py-16" maxW="max-w-md">
-        <h1 className="text-4xl text-center font-bold -mb-4">Login to Montex</h1>
+        <h1 className="text-4xl text-center font-bold -mb-4">Login to Pontex</h1>
         <SigningForm onSubmit={signInWithEmailAndPassword} />
         <p className="mt-10 pt-5 border-t border-gray-200 text-gray-700 font-semibold text-center">
           Don't have an account?{" "}

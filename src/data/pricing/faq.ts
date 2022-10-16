@@ -21,6 +21,6 @@ export default [
   {
     head: "Do you have any special offers or discounts ?",
     body:
-      "Yes, Montex wants to see you succeed! We provide a special offers to our current users thorugh our membership reward system as well as offers for our new users thorugh some of our marketing campaigns that we undertake.",
+      "Yes, Pontex wants to see you succeed! We provide a special offers to our current users thorugh our membership reward system as well as offers for our new users thorugh some of our marketing campaigns that we undertake.",
   },
 ];

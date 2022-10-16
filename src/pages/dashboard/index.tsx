@@ -31,7 +31,7 @@ export default function Dashboard(): JSX.Element | null {
   return (
     <div className="min-h-screen bg-gray-100">
       <Head>
-        <title>Dashboard - Montex</title>
+        <title>Dashboard - Pontex</title>
       </Head>
       <Navbar variant="dashboard" />
 

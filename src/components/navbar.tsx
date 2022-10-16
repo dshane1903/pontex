@@ -63,7 +63,7 @@ export default function Navbar({ variant = "base", withBorder }: NavbarProps): J
       <Container as="nav" className="w-full h-full flex justify-between items-center z-20">
         {variant === "dashboard" ? (
           <div className="flex items-center space-x-5">
-            <Link href="/dashboard" title="Montex Dashboard" fixPosition>
+            <Link href="/dashboard" title="Pontex Dashboard" fixPosition>
               <Image src="/images/logo-simple.png" width={28} height={28} />
             </Link>
             <span
@@ -81,7 +81,7 @@ export default function Navbar({ variant = "base", withBorder }: NavbarProps): J
             </Button>
           </div>
         ) : (
-          <Link href="/" title="Montex branding">
+          <Link href="/" title="Pontex branding">
             <Image src="/images/logo-full.png" width={131} height={25} />
           </Link>
         )}
