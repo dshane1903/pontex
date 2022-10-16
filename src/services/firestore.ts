@@ -8,7 +8,7 @@ import { transformRawSite } from "@/helpers/transformers";
 import type { RawSiteData, SiteData, AuthUserWithoutToken } from "@/types";
 
 /** Firebase firestore init */
-const _DB = firebase.firestore();
+const _DB = firebase.firestore(); 
 
 export async function getUserByUsername(
   username: string
